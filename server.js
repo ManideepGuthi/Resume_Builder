@@ -45,5 +45,5 @@ app.get("/resume/latest", async (req, res) => {
 });
 
 app.listen(5000, () => {
-  console.log("✅ Server running on port 5000");
+  console.log("✅ Server running on port 5000");
 });
